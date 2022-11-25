@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @xitas
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning Docker and ROR
-- 💞️ I’m looking to collaborate on any open source project in react and django 
-- 📫 you can reach out to me i.hamzaameer@gmail.com
+### Hey There,
+
+### My name is Hamza Ameer.
+
+### I am a Full Stack developer.
+
+### Technologies I love to work in are:
+
+Languages:
+- JavaScript
+- TypeScript
+- PHP
+- Pyhton
+
+Frameworks: 
+- ReactJs
+- NodeJs
+- NestJs
+- Codeigniter
+- Laravel
+- Django
+
+You can reach me at i.hamzaameer@gmail.com
+
 
 <!---
 xitas/xitas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
