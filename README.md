@@ -23,7 +23,7 @@ HTML, CSS, Javascript, Jquery, ReactJs, NodeJs, NestJs , PHP, Codeigniter, Larav
 
 🤔 I'm looking for a Job in Python
 
-📫 Reach me on i.hamzaameer@gmail.com
+📫 Reach me at i.hamzaameer@gmail.com
 
 
 
