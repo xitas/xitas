@@ -1,26 +1,32 @@
-### Hey There,
 
-### My name is Hamza Ameer.
+# Hi, I'm Hamza Ameer aka Xitas! 👋
 
-### I am a Full Stack developer.
 
-### Technologies I love to work in are:
+## 🚀 About Me
+I'm a full stack developer
 
-Languages:
-- JavaScript
-- TypeScript
-- PHP
-- Pyhton
 
-Frameworks: 
-- ReactJs
-- NodeJs
-- NestJs
-- Codeigniter
-- Laravel
-- Django
+## 🔗 Links
 
-You can reach me at i.hamzaameer@gmail.com
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamzaameer/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/XitasAmeer)
+
+
+## 🛠 Skills
+HTML, CSS, Javascript, Jquery, ReactJs, NodeJs, NestJs , PHP, Codeigniter, Laravel, Python, Flask, Django, SQL, MySql, Oracle, PostgreSQL, MSSQL 
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on React and Django
+
+🧠 I'm currently learning Docker
+
+🤔 I'm looking for a Job in Python
+
+📫 Reach me on i.hamzaameer@gmail.com
+
+
+
 
 
 <!---
