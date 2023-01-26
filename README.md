@@ -1,5 +1,5 @@
 
-# Hi, I'm Hamza Ameer aka Xitas! 👋
+# Hi, I'm Hamza aka Xitas! 👋
 
 
 ## 🚀 About Me
